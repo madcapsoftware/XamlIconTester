@@ -31,6 +31,8 @@
             <SolidColorBrush x:Key="IconNotificationYellow" Color="#FFFFCC00" />
             <SolidColorBrush x:Key="IconNotificationBlack" Color="#FF000000" />
             <SolidColorBrush x:Key="IconNotificationWhite" Color="#FFFFFFFF" />
+            <SolidColorBrush x:Key="IconIndicatorProxy" Color="#FFFCF3A6" />
+            <SolidColorBrush x:Key="IconIndicatorProxyOutline" Color="#FFD4C776" />
         </Grid.Resources>
         <Image>
             <Image.Source>
